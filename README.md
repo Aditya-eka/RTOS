@@ -6,3 +6,8 @@ Program ini bekerja dengan menginisialisasi berbagai perangkat keras seperti ADC
 
 
 https://github.com/user-attachments/assets/08b86a16-27be-4be4-8dae-cd6412362cd1
+
+
+![IMG-20241015-WA0020](https://github.com/user-attachments/assets/04cdc0ef-7d08-422e-801a-08e6aadf0e67)
+
+
